@@ -1,0 +1,8 @@
+This demo app from Hartl's course is what I am using to serve up the client IP for KHA
+It is running on Heroku at arcane-refuge-9840
+I believe this can be changed but it doesn't matter because no one sees it.
+
+To run it locally, change directory to Demo App.
+Run this command: rails server
+Then start Chrome and enter this URL: http://localhost:3000/
+
